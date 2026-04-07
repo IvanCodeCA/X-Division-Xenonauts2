@@ -1,0 +1,82 @@
+﻿{
+    "version": "0.1.0",
+    "asset": {
+        "Source": "SteamWorkshop",
+        "UID": "3700922198",
+        "Name": "X-Division Weapon Pack",
+        "Description": "[ALPHA / PUBLIC TEST] Research is instant and manufacturing costs $100 for testing. Values NOT balanced for normal gameplay.
+
+Contributors welcome! Leave a comment if interested in balancing, new weapon lines, aliens, etc.
+
+== WEAPONS ==
+
+=== Plasma (15 weapons) ===
+Pistol, Rifle, Shotgun, Sniper, LMG x Mk1/Mk2/Mk3
+Damage: Energy | ArmourPen: 10-28%
+
+=== Gauss Mk3 (5 weapons) ===
+Pistol, Rifle, Shotgun, Sniper, LMG Mk3
+Damage: Kinetic | ArmourPen: 18%
+
+=== Antimatter (15 weapons) ===
+Pistol, Rifle, Sniper, Cannon, Minigun x Mk1/Mk2/Mk3
+Damage: Kinetic | ArmourPen: 90% | ArmourDest: 10-20%
+
+== INTERROGATIONS (20 new) ==
+Adds rank-specific interrogation research for:
+  Psyon/Sebillian/Wraith: Officer, Elite, Leader, Praetorian
+  Secton/Andron: Elite, Praetorian
+  Mantid: Officer, Elite
+  Eternal / High Eternal
+Requires capturing the corresponding alien alive.
+
+== TECH TREE ==
+
+Plasma:
+  Alien Plasma Weapons + Psyon Officer Interrogation
+    -> Advanced: + Psyon Leader + Wraith Officer
+      -> Ultimate: + Psyon Praetorian + Wraith Elite + Wraith Leader
+
+Gauss Mk3:
+  Gauss Damage upgrade + Sebillian Officer/Elite/Leader Interrogation
+
+Antimatter:
+  Singularity Core + Ultimate Gauss + Ultimate Plasma
+  + Sebillian Praetorian + Wraith Praetorian
+    -> Advanced: + Eternal Interrogation
+      -> Ultimate: + High Eternal Interrogation
+
+Total: 35 weapons + 7 weapon research + 20 interrogation research + 11 captured items
+All weapon icons from X-Division. 3D models use existing game assets.
+
+Credits: Original X-Division mod by Charon and the X-Division team.
+
+Supported game version: 7.18.4+",
+        "Visiblity": "Public",
+        "Author": "",
+        "Website": "",
+        "Credits": "",
+        "Tags": [
+            "Weapon",
+            "Technology"
+        ],
+        "Dependencies": [],
+        "SupportedLanguages": [
+            "zh-TW"
+        ],
+        "Version": "0.1.0",
+        "MinimumVersion": {
+            "&v": {
+                "$content": "7.18.4",
+                "$id": "5"
+            }
+        },
+        "MaximumVersion": {
+            "&v": {
+                "$ref": "5"
+            }
+        },
+        "$t": "14"
+    },
+    "$t": "15"
+}

@@ -1,0 +1,1 @@
+﻿{"version":"0.1.0","asset":{"Parent":{"$content":"ST-::-masters/items/captured.json","$t":"ar_Template"},"Name":"captured_secton_praetorian","_components":[{"$content":"Captured Secton Praetorian","$t":"Name"},{"$content":"A live Secton Praetorian captured during ground combat.","$t":"Description"},{"$content":1.0,"$t":"SortOrder"}],"$t":"4"},"$t":"15"}
