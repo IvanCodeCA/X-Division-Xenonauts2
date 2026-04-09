@@ -1,0 +1,1 @@
+{"version":"0.1.0","asset":{"Parent":{"$content":"ST-::-masters/items/ammo/ammo_grenadelauncher.json","$t":"ar_Template"},"Name":"rocket_launcher_explosive","_components":[{"$content":"Rocket Explosive Warhead","$t":"Name"},{"$content":1010.0,"$t":"SortOrder"},{"_min":1.0,"_val":2.0,"_max":2.0,"$t":"Weight"}],"$t":"4"},"$t":"15"}
