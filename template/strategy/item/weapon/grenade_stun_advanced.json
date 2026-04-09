@@ -1,0 +1,1 @@
+﻿{"version":"0.1.0","asset":{"Parent":{"$content":"ST-::-masters/items/grenade.json","$t":"ar_Template"},"Name":"grenade_stun_advanced","_components":[{"$content":"Advanced Stun Grenade","$t":"Name"},{"$content":20.0,"$t":"SortOrder"},{"$content":"ExcludeFromBaseStoresSell,ExcludeFromBaseStoresTransfer","$t":"SItemMeta"}],"$t":"4"},"$t":"15"}
