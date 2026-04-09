@@ -1,1 +1,1 @@
-﻿{"version":"0.1.0","asset":{"Parent":{"$content":"ST-::-item/weapon/antimatter_rifle_mk1.json","$t":"ar_Template"},"Name":"antimatter_rifle_mk2","_components":[{"$content":"Antimatter Rifle MK2","$t":"Name"},{"$content":3001.0,"$t":"SortOrder"}],"$t":"4"},"$t":"15"}
+{"version":"0.1.0","asset":{"Parent":{"$content":"ST-::-item/weapon/antimatter_rifle_mk1.json","$t":"ar_Template"},"Name":"antimatter_rifle_mk2","_components":[{"$content":"Antimatter Rifle MK2","$t":"Name"},{"$content":3001.0,"$t":"SortOrder"}],"$t":"4"},"$t":"15"}
